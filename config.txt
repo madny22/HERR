@@ -1,0 +1,6 @@
+owner=325378908570648578
+prefix=*
+game=Mimo
+stayinchannel=true
+songinstatus=false
+token=NTg3OTgxMDAyNzA2NjQ5MTAw.XP-eTw.6C3P6kYuAZzUHEcJxDZu1cToQPA
